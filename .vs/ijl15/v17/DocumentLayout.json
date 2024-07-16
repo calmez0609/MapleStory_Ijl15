@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\calme\\Downloads\\MapleStory-tool-master\\MapleStory-tool-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63786D01-FB06-4CBC-BE31-A505FFDEC2CE}|ijl15\\ijl15.vcxproj|C:\\Users\\calme\\Downloads\\MapleStory-tool-master\\MapleStory-tool-master\\ijl15\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63786D01-FB06-4CBC-BE31-A505FFDEC2CE}|ijl15\\ijl15.vcxproj|solutionrelative:ijl15\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63786D01-FB06-4CBC-BE31-A505FFDEC2CE}|ijl15\\ijl15.vcxproj|C:\\Users\\calme\\Downloads\\MapleStory-tool-master\\MapleStory-tool-master\\ijl15\\MsCRC.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63786D01-FB06-4CBC-BE31-A505FFDEC2CE}|ijl15\\ijl15.vcxproj|solutionrelative:ijl15\\MsCRC.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63786D01-FB06-4CBC-BE31-A505FFDEC2CE}|ijl15\\ijl15.vcxproj|C:\\Users\\calme\\Downloads\\MapleStory-tool-master\\MapleStory-tool-master\\ijl15\\ijl15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63786D01-FB06-4CBC-BE31-A505FFDEC2CE}|ijl15\\ijl15.vcxproj|solutionrelative:ijl15\\ijl15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63786D01-FB06-4CBC-BE31-A505FFDEC2CE}|ijl15\\ijl15.vcxproj|C:\\Users\\calme\\Downloads\\MapleStory-tool-master\\MapleStory-tool-master\\ijl15\\stdafx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63786D01-FB06-4CBC-BE31-A505FFDEC2CE}|ijl15\\ijl15.vcxproj|solutionrelative:ijl15\\stdafx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63786D01-FB06-4CBC-BE31-A505FFDEC2CE}|ijl15\\ijl15.vcxproj|C:\\Users\\calme\\Downloads\\MapleStory-tool-master\\MapleStory-tool-master\\ijl15\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63786D01-FB06-4CBC-BE31-A505FFDEC2CE}|ijl15\\ijl15.vcxproj|solutionrelative:ijl15\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63786D01-FB06-4CBC-BE31-A505FFDEC2CE}|ijl15\\ijl15.vcxproj|C:\\Users\\calme\\Downloads\\MapleStory-tool-master\\MapleStory-tool-master\\ijl15\\targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63786D01-FB06-4CBC-BE31-A505FFDEC2CE}|ijl15\\ijl15.vcxproj|solutionrelative:ijl15\\targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63786D01-FB06-4CBC-BE31-A505FFDEC2CE}|ijl15\\ijl15.vcxproj|C:\\Users\\calme\\Downloads\\MapleStory-tool-master\\MapleStory-tool-master\\ijl15\\MultiMs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63786D01-FB06-4CBC-BE31-A505FFDEC2CE}|ijl15\\ijl15.vcxproj|solutionrelative:ijl15\\MultiMs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MsCRC.h",
+              "DocumentMoniker": "C:\\Users\\calme\\Downloads\\MapleStory-tool-master\\MapleStory-tool-master\\ijl15\\MsCRC.h",
+              "RelativeDocumentMoniker": "ijl15\\MsCRC.h",
+              "ToolTip": "C:\\Users\\calme\\Downloads\\MapleStory-tool-master\\MapleStory-tool-master\\ijl15\\MsCRC.h",
+              "RelativeToolTip": "ijl15\\MsCRC.h",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-27T13:27:04.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "targetver.h",
+              "DocumentMoniker": "C:\\Users\\calme\\Downloads\\MapleStory-tool-master\\MapleStory-tool-master\\ijl15\\targetver.h",
+              "RelativeDocumentMoniker": "ijl15\\targetver.h",
+              "ToolTip": "C:\\Users\\calme\\Downloads\\MapleStory-tool-master\\MapleStory-tool-master\\ijl15\\targetver.h",
+              "RelativeToolTip": "ijl15\\targetver.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-27T13:05:57.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "stdafx.h",
+              "DocumentMoniker": "C:\\Users\\calme\\Downloads\\MapleStory-tool-master\\MapleStory-tool-master\\ijl15\\stdafx.h",
+              "RelativeDocumentMoniker": "ijl15\\stdafx.h",
+              "ToolTip": "C:\\Users\\calme\\Downloads\\MapleStory-tool-master\\MapleStory-tool-master\\ijl15\\stdafx.h",
+              "RelativeToolTip": "ijl15\\stdafx.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-27T13:05:53.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "stdafx.cpp",
+              "DocumentMoniker": "C:\\Users\\calme\\Downloads\\MapleStory-tool-master\\MapleStory-tool-master\\ijl15\\stdafx.cpp",
+              "RelativeDocumentMoniker": "ijl15\\stdafx.cpp",
+              "ToolTip": "C:\\Users\\calme\\Downloads\\MapleStory-tool-master\\MapleStory-tool-master\\ijl15\\stdafx.cpp",
+              "RelativeToolTip": "ijl15\\stdafx.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-27T13:05:16.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ijl15.cpp",
+              "DocumentMoniker": "C:\\Users\\calme\\Downloads\\MapleStory-tool-master\\MapleStory-tool-master\\ijl15\\ijl15.cpp",
+              "RelativeDocumentMoniker": "ijl15\\ijl15.cpp",
+              "ToolTip": "C:\\Users\\calme\\Downloads\\MapleStory-tool-master\\MapleStory-tool-master\\ijl15\\ijl15.cpp",
+              "RelativeToolTip": "ijl15\\ijl15.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-27T13:05:10.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\Users\\calme\\Downloads\\MapleStory-tool-master\\MapleStory-tool-master\\ijl15\\dllmain.cpp",
+              "RelativeDocumentMoniker": "ijl15\\dllmain.cpp",
+              "ToolTip": "C:\\Users\\calme\\Downloads\\MapleStory-tool-master\\MapleStory-tool-master\\ijl15\\dllmain.cpp*",
+              "RelativeToolTip": "ijl15\\dllmain.cpp*",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-27T13:05:06.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MultiMs.h",
+              "DocumentMoniker": "C:\\Users\\calme\\Downloads\\MapleStory-tool-master\\MapleStory-tool-master\\ijl15\\MultiMs.h",
+              "RelativeDocumentMoniker": "ijl15\\MultiMs.h",
+              "ToolTip": "C:\\Users\\calme\\Downloads\\MapleStory-tool-master\\MapleStory-tool-master\\ijl15\\MultiMs.h",
+              "RelativeToolTip": "ijl15\\MultiMs.h",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-27T13:05:44.635Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

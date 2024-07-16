@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+C:\Users\calme\Downloads\MapleStory-tool-master\MapleStory-tool-master\ijl15\MsCRC.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  ijl15.cpp
+     正在建立程式庫 C:\Users\calme\Downloads\MapleStory-tool-master\MapleStory-tool-master\Release\ijl15.lib 和物件 C:\Users\calme\Downloads\MapleStory-tool-master\MapleStory-tool-master\Release\ijl15.exp
+  正在產生程式碼
+  Previous IPDB not found, fall back to full compilation.
+  All 21 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  ijl15.vcxproj -> C:\Users\calme\Downloads\MapleStory-tool-master\MapleStory-tool-master\Release\ijl15.dll
+  'pwsh.exe' 不是內部或外部命令、可執行的程式或批次檔。
